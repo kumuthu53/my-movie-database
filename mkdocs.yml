@@ -1,0 +1,7 @@
+site_name: My Project Documentation
+site_description: A simple repository with a single readme.
+theme: mkdocs
+
+nav:
+  - Home: README.md
+  
