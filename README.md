@@ -2,11 +2,13 @@
 
 # my-movie-database
 
-A command line tool to keep track of the movies you watched. Installable via pip. Uses SqlAlchemy. Built for Linux
+<!-- add ascii art-->
 
-## Medium
+A command line tool to keep track of the movies you watched. Installable via pip. Uses SQLAlchemy. Built for Linux
 
-For a detailed guide on using this application refer to the Medium article at https://medium.com/@kumuthu53/my-movie-database-9298707293fd.
+## Documentation
+
+<!-- add link to documentation -->
 
 ## How to Install
 

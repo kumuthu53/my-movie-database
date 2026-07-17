@@ -1,8 +1,11 @@
-site_name: My Project Documentation
-site_description: A simple repository with a single readme.
-theme: 
+site_name: MyMovieDatabase
+site_description: A tool for managing your movie ratings.
+theme:
   name: readthedocs
+markdown_extensions:
+  - admonition
 
 nav:
-  - Home: README.md
-  
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
